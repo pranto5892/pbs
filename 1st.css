@@ -1,0 +1,27 @@
+body{
+	 background-color:blue!important;
+
+}
+
+p{
+	color:black!important;
+	font-size:20px!important;
+}
+#sullu{ 
+
+	color:yellow;
+}
+#pran{ 
+
+	color:orange;
+}
+h3{
+	text-align: right;
+	font-size:50px;
+	color:FF0000;
+	padding-right:100px;
+}
+img{
+
+	justify-content:  center;
+}
